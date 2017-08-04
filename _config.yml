@@ -23,9 +23,9 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "测试页面修改."
-keywords: 'jekyll,theme,gem-based,blog'
+title: R00T She11
+description: "流光"
+keywords: 'java,java web,internet,computer,blog'
 author:
   name:
   job_title:
@@ -47,13 +47,13 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Test</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>哈喽哈喽</h1>
+  section2: <h2>网站还在施工中呀，请耐心等待</h2>
+  section3: #<div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
   cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
   cc_license_image: # An image of your CC License, e.g. /assets/images/theme/cc-by-sa.png
-  footer_content: A gem-based responsive simple texture styled Jekyll theme.
+  footer_content: 天行健，君子以自强不息.
 
 disqus:
   shortname:
