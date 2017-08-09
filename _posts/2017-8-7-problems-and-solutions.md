@@ -1,3 +1,13 @@
+---
+layout: post
+title: "测试博客编写"
+description: "A quick demo of Simple Texture theme's code highlighting features"
+categories: [demo]
+tags: [demo, jekyll]
+redirect_from:
+  - /2017/08/7/
+---
+
 ## 点击启动服务器没有没有界面出现
 - **解决方案**
 
