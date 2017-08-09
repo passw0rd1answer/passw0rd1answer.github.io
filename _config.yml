@@ -53,7 +53,7 @@ home:
 blog:
   cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
   cc_license_image: # An image of your CC License, e.g. /assets/images/theme/cc-by-sa.png
-  footer_content: <h4>天行健，君子以自强不息.</h4>
+  footer_content: <h4>天行健，君子以自强不息</h4>
 
 disqus:
   shortname:
