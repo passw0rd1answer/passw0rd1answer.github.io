@@ -69,5 +69,5 @@ paths:
   tags: /blog/tags/
 
   <style>
-    .test{ color:red}
+    .test{color:red}
   </style>
