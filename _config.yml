@@ -49,7 +49,7 @@ author:
       url:
 home:
   section1: <h2 style="color:red">哈喽老铁！</h2>
-  section2: <h4 class="test">网站还在施工中呀，请耐心等待</h4>
+  section2: <h4 class="testCSS">网站还在施工中呀，请耐心等待</h4>
   section3: # <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
   cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
@@ -68,6 +68,3 @@ paths:
   categories: /blog/categories/
   tags: /blog/tags/
 
-  <style>
-    .test{color:red}
-  </style>
