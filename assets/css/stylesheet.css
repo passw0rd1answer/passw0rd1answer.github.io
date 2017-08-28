@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'kyomadokaregular';
+    src: url('baizhou-jingyuanshu-webfont.woff2') format('woff2'),
+         url('baizhou-jingyuanshu-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
