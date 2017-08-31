@@ -6,6 +6,7 @@
 @import 'simple-texture/common/pace';
 @import 'simple-texture/common/social-icons';
 @import 'simple-texture/home/fullpage';
+@import '/assets/css/stylesheet.css';
 
 body {
     font-family: $fonts-body;
@@ -23,7 +24,9 @@ h1 {
 
 h2 {
     font-size: 2.225em;
+    font-family: bz-jys
 }
+
 
 h3 {
     font-size: 1.725em;
@@ -181,4 +184,4 @@ textarea {
 }
 
 @import 'simple-texture/home/responsive';
-@import '/assets/css/stylesheet.css';
+
