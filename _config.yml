@@ -48,7 +48,7 @@ author:
     - name: vk
       url:
 home:
-  section1: <h2 class="test">Hello老铁！</h2>
+  section1: <h2>Hello老铁！</h2>
   section2: <h4>网站还在施工中呀，请耐心等待,see ya!</h4>
   section3: # <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
