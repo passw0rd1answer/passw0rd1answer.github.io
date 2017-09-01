@@ -1,4 +1,4 @@
-/*@font-face {
+@font-face {
     font-family: 'bz-jys';
     src: url('/assets/css/MyFont/baizhou-jingyuanshu.ttf') format('truetype'),
          url('/assets/css/MyFont/baizhou-jingyuanshu-webfont.woff2') format('woff2'),
@@ -6,9 +6,9 @@
     font-weight: normal;
     font-style: normal;
 
-}*/
+}
 
-@font-face {
+/*@font-face {
     font-family: 'bz-rz';
     src: url('/assets/css/MyFont/baizhou-renzhe.otf') ,
          url('/assets/css/MyFont/baizhou-renzhe-webfont.woff2') format('woff2'),
@@ -16,4 +16,4 @@
     font-weight: normal;
     font-style: normal;
 
-}
+}*/
