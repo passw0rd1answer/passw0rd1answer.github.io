@@ -8,6 +8,12 @@
 
 }
 
-h2.test{
-    font-family: 'bz-jys'
+@font-face {
+    font-family: 'bz-rz';
+    src: url('/assets/css/MyFont/baizhou-renzhe.otf') ,
+         url('/assets/css/MyFont/baizhou-renzhe-webfont.woff2') format('woff2'),
+         url('/assets/css/MyFont/baizhou-renzhe-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
