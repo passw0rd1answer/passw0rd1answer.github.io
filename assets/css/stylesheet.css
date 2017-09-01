@@ -8,6 +8,10 @@
 
 }
 
+h2 {
+    font-family: 'bz-jys';
+}
+
 /*@font-face {
     font-family: 'bz-rz';
     src: url('/assets/css/MyFont/baizhou-renzhe.otf') ,
